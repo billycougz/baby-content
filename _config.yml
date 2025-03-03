@@ -1,8 +1,12 @@
 title: Chloe's Content Collection
+
 author:
   name: William Cougan
   email: william.cougan@gmail.com
   
+description: >
+  Stories, lullabies, and content written just for little Chloe.
+
 theme: minima
 
 minima:
@@ -10,4 +14,4 @@ minima:
 
 plugins:
   - jekyll-feed
-  
+  - jekyll-seo-tag
