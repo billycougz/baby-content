@@ -1,4 +1,7 @@
-# Hush, Little Baby (Billy Goat Edition)
+---
+layout: post
+title: "Hush, Little Baby (Billy Goat Edition)"
+---
 
 Hush, little baby, don’t say a word,  
 Daddy’s gonna buy you a billy goat herd.  
