@@ -1,3 +1,3 @@
-# My Jekyll Site
+# Chloe's Content Collection
 
-Welcome to my site!
+Beautiful stories and lullabies written just for little Chloe.
