@@ -1,4 +1,9 @@
+title: Chloe's Content Collection
+author:
+  name: William Cougan
+  email: william.cougan@gmail.com
+  
 theme: minima
 
 minima:
-  skin: dark
+  skin: solarized
