@@ -7,3 +7,7 @@ theme: minima
 
 minima:
   skin: solarized
+
+plugins:
+  - jekyll-feed
+  
