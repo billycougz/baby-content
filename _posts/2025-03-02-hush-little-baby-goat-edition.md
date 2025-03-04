@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hush, Little Baby (Billy Goat Edition)"
+categories: lullabies
 ---
 
 Hush, little baby, don’t say a word,  
