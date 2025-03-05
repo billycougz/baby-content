@@ -23,7 +23,7 @@ email: william.cougan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Stories and lullabies for baby Chloe.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "williamcougan.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: will_cougar
 github_username:  billycougz
 
