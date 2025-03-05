@@ -3,7 +3,7 @@ Stories and lullabies for baby Chloe.
 
 ## Format Prompt
 ```
-Update it with front matter for a Jekyll post. Potential cateogies are stories and lullabies. Include any applicable tags. Also give me the filename.
+Update it with front matter for a Jekyll post. Potential categories are stories and lullabies. Include any applicable tags. Also give me the filename.
 ```
 
 ## Serve Locally
